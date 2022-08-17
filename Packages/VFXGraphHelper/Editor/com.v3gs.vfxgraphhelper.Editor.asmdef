@@ -1,0 +1,17 @@
+{
+    "name": "com.v3gs.vfxgraphhelper.Editor",
+    "rootNamespace": "",
+    "references": [
+        "Unity.VisualEffectGraph.Runtime",
+        "Unity.VisualEffectGraph.Editor"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

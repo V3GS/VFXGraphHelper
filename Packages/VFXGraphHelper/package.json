@@ -1,0 +1,17 @@
+{
+  "name": "com.v3gs.vfxgraphhelper",
+  "version": "1.0.0",
+  "displayName": "VFX Graph helper",
+  "description": "This package contains a set of extensions to the VFX graph package",
+  "unity": "2021.3",
+  "unityRelease": "0f1",
+  "keywords": [
+    "VFX helper",
+    "Point cache",
+    "Exposing Point cache"
+  ],
+  "author": {
+    "name": "Victor Riascos"
+  },
+  "dependencies": {}
+}
