@@ -30,7 +30,7 @@ To use a couple of Textures 2D that can be exposed in the VFX blackboard. So, th
 
 This is the result of using this tool with the MorphingFace VFX asset.
 
-![Point cache result](http://drive.google.com/uc?export=view&id=1RDrYq7RwfitY_ry7lUrLIKxYAc4g16SL)
+![Point cache result](http://drive.google.com/uc?export=view&id=1A8igGe63jPodjXivvsnHfEFiiSq3e9lR)
 
 
 Files to take into account for achieving this:
